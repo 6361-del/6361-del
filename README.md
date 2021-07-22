@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @6361-del
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Shreya
+- 👀 I’m interested in making websites
 - 🌱 I’m currently learning how to make effective websites
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me on whatsApp 6361730401
